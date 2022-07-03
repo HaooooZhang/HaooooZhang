@@ -1,5 +1,5 @@
 This is haoooo_!
-这里是昊想钧成！
+这里是昊想钧成。
 
 A modder in China.
 一个来自中国的模组作者。
