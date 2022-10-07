@@ -1,9 +1,10 @@
-This is haoooo_!
+扬子秋残暮雨时，笛声雁影共迷离。
 
-A Minecraft modder in China.
-
-
-以上。
+The sound of the flute 
+and the shadows of the geese 
+are lost together 
+in the twilight rain 
+of Yangzi autumn.
 
 <!---
 haoxjc/haoxjc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
