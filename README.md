@@ -10,9 +10,7 @@ in the twilight rain
 
 of Yangzi River's autumn.
 
-<a href="https://github.com/HaooooZhang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaooooZhang&layout=compact&theme=dracula&locale=en" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaooooZhang)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 haoxjc/haoxjc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
