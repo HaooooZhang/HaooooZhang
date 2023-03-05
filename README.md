@@ -12,8 +12,8 @@ of Yangzi River's autumn.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaooooZhang)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaooooZhang)](https://github.com/anuraghazra/github-readme-stats)
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaooooZhang)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
