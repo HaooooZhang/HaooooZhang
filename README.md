@@ -10,10 +10,16 @@ in the twilight rain
 
 of Yangzi River's autumn.
 
+
+
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=HaooooZhang)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+
+<!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaooooZhang)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaooooZhang)](https://github.com/anuraghazra/github-readme-stats)
-
+--->
 
 
 <!---
